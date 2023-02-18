@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-tok",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "DropSuit NLP - tok function: A JavaScript and Node.js library for tokenizing text",
   "main": "index.js",
   "scripts": {
