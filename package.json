@@ -1,0 +1,32 @@
+{
+  "name": "dropsuit-tok",
+  "version": "1.0.8",
+  "description": "DropSuit NLP - tok function: A JavaScript and Node.js library for tokenizing text",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladooniani/dropsuit-tok.git"
+  },
+  "keywords": [
+    "tokenization",
+    "natural language processing",
+    "text analysis",
+    "language understanding"
+  ],
+  "author": "Lado Oniani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ladooniani/dropsuit-tok/issues"
+  },
+  "homepage": "https://github.com/ladooniani/dropsuit-tok#readme",
+  "dependencies": {
+    "dropsuit-clnarr": "^1.0.7",
+    "dropsuit-clnstr": "^1.0.11"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
